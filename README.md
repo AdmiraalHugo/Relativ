@@ -49,4 +49,4 @@ Simply mount the Leap Motion controller on the front site of your headset!
 
 # ENJOY!
 
-You can support me here; https://www.patreon.com/relativty
+You can support me on here; https://www.relativty.net/campaigns/relativty-lm/
